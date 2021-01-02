@@ -13,3 +13,4 @@ what's available in this repository:
 2. A documentation is made available about these smart pointers, when to 
    use them, what are their features and advantages.
 
+This Repo also contains an example of explicit keyword in c++ and it's use.
